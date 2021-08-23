@@ -1,0 +1,2 @@
+# DialpadGif
+Giphy sidebar intergration
