@@ -10,4 +10,4 @@ const data = {
     path: 'init',
     client_uid: window.name,
   }
-  window.sendMessage(data, 'https://dialpadbeta.com')
+  window.postMessage(data, 'https://dialpadbeta.com')
